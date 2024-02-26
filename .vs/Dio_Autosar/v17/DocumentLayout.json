@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Det.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Det.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Dio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Dio.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dio.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Compiler_Cfg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Compiler_Cfg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Compiler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Compiler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Std_Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Std_Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Platform_Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Platform_Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Det.c",
+              "DocumentMoniker": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Det.c",
+              "RelativeDocumentMoniker": "Det.c",
+              "ToolTip": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Det.c",
+              "RelativeToolTip": "Det.c",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-21T20:07:01.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dio.c",
+              "DocumentMoniker": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Dio.c",
+              "RelativeDocumentMoniker": "Dio.c",
+              "ToolTip": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Dio.c",
+              "RelativeToolTip": "Dio.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-15T19:37:35.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Compiler_Cfg.h",
+              "DocumentMoniker": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Compiler_Cfg.h",
+              "RelativeDocumentMoniker": "Compiler_Cfg.h",
+              "ToolTip": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Compiler_Cfg.h",
+              "RelativeToolTip": "Compiler_Cfg.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-15T19:37:33.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dio.h",
+              "DocumentMoniker": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Dio.h",
+              "RelativeDocumentMoniker": "Dio.h",
+              "ToolTip": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Dio.h",
+              "RelativeToolTip": "Dio.h",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAKQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-15T19:31:10.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Std_Types.h",
+              "DocumentMoniker": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Std_Types.h",
+              "RelativeDocumentMoniker": "Std_Types.h",
+              "ToolTip": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Std_Types.h",
+              "RelativeToolTip": "Std_Types.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-15T15:49:19.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Platform_Types.h",
+              "DocumentMoniker": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Platform_Types.h",
+              "RelativeDocumentMoniker": "Platform_Types.h",
+              "ToolTip": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Platform_Types.h",
+              "RelativeToolTip": "Platform_Types.h",
+              "ViewState": "AQIAAJkAAAAAAAAAAAAAAEkBAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-15T15:49:15.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Compiler.c",
+              "DocumentMoniker": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Compiler.c",
+              "RelativeDocumentMoniker": "Compiler.c",
+              "ToolTip": "G:\\Embedded_Diploma\\3-AUTOSAR\\2-AUTOSAR\\Dio_Autosar\\Compiler.c",
+              "RelativeToolTip": "Compiler.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-02-15T15:49:07.436Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
